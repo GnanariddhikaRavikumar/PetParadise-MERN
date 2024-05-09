@@ -1,0 +1,28 @@
+----INSTRUCTIONS-----
+
+1.Create Project
+npm create vite@latest
+
+2.Change to respective directory
+cd project-name
+
+3.Install the requirements
+npm install or npm i
+
+REACT ROUTING - npm i react-router-dom
+
+AUTHENTICATION & AUTHORIZATION - npm i jsonwebtoken
+
+TO HASH THE PASSWORD - npm i bcrypt
+
+API CALLS - npm i axios
+
+TWO DIFFERENT SERVER CONNECT - npm i cors
+
+CONNECT DB - npm i mongoose
+
+BACKEND - npm i express
+
+RUN BACKEND - 1.npm i nodemon
+              2.nodemon filename.js
+
