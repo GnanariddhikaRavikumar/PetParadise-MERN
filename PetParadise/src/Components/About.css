@@ -1,0 +1,15 @@
+
+.container h1, 
+.container h2 {
+    color: #28a745;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.container p {
+    line-height: 1.6;
+}
+.highlight {
+    color: #17a2b8;
+}
